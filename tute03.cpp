@@ -39,7 +39,7 @@ int main()
     fac = fac * r;
   }
 
-  cout << "Factorial of" << no "is" << fac << endl;
+  cout << "Factorial of" << no << "is : " << fac << endl;
 
   return 0;
 }
